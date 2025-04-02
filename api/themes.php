@@ -2006,17 +2006,17 @@ return [
     ],
 
     "watchdog-gradient" => [
-        "background" => "#000000",
-        "border" => "#737373",
-        "stroke" => "#737373",
-        "ring" => "#7FBA00",
+        "background" => "45,2C520806,2C021D4A",
+        "border" => "#E4E2E2",
+        "stroke" => "#E4E2E2",
+        "ring" => "#FE428E",
         "fire" => "#EB8C30",
-        "currStreakNum" => "#00A4EF",
-        "sideNums" => "#FFB900",
-        "currStreakLabel" => "#00A4EF",
-        "sideLabels" => "#FFB900",
-        "dates" => "#7FBA00",
-        "excludeDaysLabel" => "#7FBA00",
+        "currStreakNum" => "#F8D847",
+        "sideNums" => "#FE428E",
+        "currStreakLabel" => "#F8D847",
+        "sideLabels" => "#FE428E",
+        "dates" => "#A9FEF7",
+        "excludeDaysLabel" => "#A9FEF7",
     ],
     
 ];
