@@ -2004,4 +2004,19 @@ return [
         "dates" => "#7FBA00",
         "excludeDaysLabel" => "#7FBA00",
     ],
+
+    "watchdog-gradient" => [
+        "background" => "#000000",
+        "border" => "#737373",
+        "stroke" => "#737373",
+        "ring" => "#7FBA00",
+        "fire" => "#EB8C30",
+        "currStreakNum" => "#00A4EF",
+        "sideNums" => "#FFB900",
+        "currStreakLabel" => "#00A4EF",
+        "sideLabels" => "#FFB900",
+        "dates" => "#7FBA00",
+        "excludeDaysLabel" => "#7FBA00",
+    ],
+    
 ];
